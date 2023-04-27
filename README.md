@@ -1,5 +1,6 @@
 # Kitchen Orders
-Restaurant kitchen orders management application,
+Restaurant kitchen orders management application
+
 Kitchen workers can take in new orders and deliver ready orders.
 
 ## Dashboard
