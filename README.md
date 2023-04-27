@@ -1,10 +1,10 @@
-# Kitchen Orders
-Restaurant kitchen orders management application
-
-Kitchen workers can take in new orders and deliver ready orders.
+<p align="center">
+ <img width="100px" src="https://raw.githubusercontent.com/SakerDakak/Kitchen-Orders/main/icons/Icon-192.png" align="center" alt="Kitchen Orders" />
+ <h1 align="center">Kitchen Orders</h1>
+ <p align="center">Restaurant kitchen orders management application<br>Kitchen workers can take in new orders and deliver ready orders.</p>
 
 ## Dashboard
-https://sakerdakak.github.io/Kitchen-Orders/
+web: https://sakerdakak.github.io/Kitchen-Orders/
 
 ## APK
 Download: https://github.com/SakerDakak/Kitchen-Orders/releases/download/KitchenOrders/KitchenOrders.apk
