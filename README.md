@@ -7,7 +7,7 @@ Kitchen workers can take in new orders and deliver ready orders.
 https://sakerdakak.github.io/Kitchen-Orders/
 
 ## APK
-Download: https://github.com/SakerDakak/Kitchen-Orders/raw/main/APK/KitchenOrders.apk
+Download: https://github.com/SakerDakak/Kitchen-Orders/releases/download/KitchenOrders/KitchenOrders.apk
 
 ## Some project features:
 
