@@ -8,10 +8,10 @@ https://sakerdakak.github.io/Kitchen-Orders/
 ## APK
 Download: https://github.com/SakerDakak/Kitchen-Orders/raw/main/APK/KitchenOrders.apk
 
+
 ## Some project features:
 
 - Supports several languages (Arabic - English)
-
 - Compatible with devices of different sizes with width customization
 
 - Detecting internet outages and retrying
