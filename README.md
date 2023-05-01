@@ -10,7 +10,7 @@ web: https://sakerdakak.github.io/Kitchen-Orders/
 Download: https://github.com/SakerDakak/Kitchen-Orders/releases/download/KitchenOrders/KitchenOrders.apk
 
 ## Screenshort
-<img src="https://github.com/SakerDakak/Kitchen-Orders/blob/main/Screenshort/Cover1.jpg?raw=true" width="90%"></img>
+<img src="https://github.com/SakerDakak/Kitchen-Orders/blob/main/Screenshort/Cover.jpg?raw=true" width="90%"></img>
 <img src="https://github.com/SakerDakak/Kitchen-Orders/blob/main/Screenshort/screenshort_2.png?raw=true" width="45%"></img> 
 <img src="https://github.com/SakerDakak/Kitchen-Orders/blob/main/Screenshort/screenshort_3.png?raw=true" width="45%"></img> 
 <img src="https://github.com/SakerDakak/Kitchen-Orders/blob/main/Screenshort/screenshort_4.png?raw=true" width="45%"></img> 
