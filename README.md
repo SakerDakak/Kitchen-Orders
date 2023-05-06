@@ -18,7 +18,7 @@ Download: https://github.com/SakerDakak/Kitchen-Orders/releases/download/Kitchen
 <img src="https://github.com/SakerDakak/Kitchen-Orders/blob/main/Screenshort/screenshort_6.png?raw=true" width="45%"></img> 
 <img src="https://github.com/SakerDakak/Kitchen-Orders/blob/main/Screenshort/screenshort_7.png?raw=true" width="45%"></img> 
 
-## Some project features:
+## Features:
 - Supports several languages (Arabic - English)
 - Compatible with devices of different sizes with width customization
 - Detecting internet outages and retrying
