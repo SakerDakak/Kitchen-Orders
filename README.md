@@ -30,9 +30,9 @@ Download: https://github.com/SakerDakak/Kitchen-Orders/releases/download/Kitchen
 
 - Sort orders by department
 
-- Complete part of the application
+- Complete part of the order
 
-- Complete the application
+- Complete the order
 
 - Send the request to the printer with just one click
 
