@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://raw.githubusercontent.com/SakerDakak/Kitchen-Orders/main/icons/Icon-192.png" align="center" alt="Kitchen Orders" />
+ <img width="140px" src="https://raw.githubusercontent.com/SakerDakak/Kitchen-Orders/main/icons/Icon-192.png" align="center" alt="Kitchen Orders" />
  <h1 align="center">Kitchen Orders</h1>
  <p align="center">Restaurant kitchen orders management application<br>Kitchen workers can take in new orders and deliver ready orders.</p>
 
